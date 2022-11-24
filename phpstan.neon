@@ -1,0 +1,10 @@
+parameters:
+  parallel:
+    processTimeout: 300.0
+  level: max
+  paths:
+    - src
+  excludes_analyse:
+  ignoreErrors:
+  checkMissingIterableValueType: false
+  checkGenericClassInNonGenericObjectType: false
